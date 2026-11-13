@@ -1,4 +1,4 @@
-js
+/js
   ├── constants.js       // 색상 팔레트, 정렬 comparator, 폰트 로더
   ├── utils.js           // escapeHtml, applyTextCorrections, 템플릿 헬퍼, 자동변환
   ├── db.js              // NovelDatabase 클래스
